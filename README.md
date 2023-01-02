@@ -6,14 +6,14 @@ Minimalistic and secure operating system
 
 # Features:
 
-## I. Scripts
+## I. Preparation scripts
 
 - Small size
 - Automation of the most processess related with getting, preparing, compiling and configuration
 
 ## II. Final product (Linux disribution):
 
-1. Minimal core - The system base (core) itself contain only files required tu start-up and run the system
+1. Minimal core - The system base (core) itself contain only files required to start-up and run the system
 2. Enchanced security - The system will be defaultly hardened and isolated to provide maximal possible protection. The hardenings include among others:
 
 - kernel hardening
