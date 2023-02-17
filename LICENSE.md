@@ -3,7 +3,7 @@
 1. Scripts used to download, build and configure ATI-OS:
 
 - **Author**: ***Michal "Mcgiwer" Dziczkowski***
-- **License**: ***CreativeCommons by-nd***
+- **License**: ***[Creative Commons by-nc](https://creativecommons.org/licenses/by-nc/4.0/)***
 
 2. Used components (binaries, libraries, sources):
 
