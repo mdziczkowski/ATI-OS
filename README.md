@@ -2,7 +2,7 @@
 
 Minimalistic and secure operating system
 
-**Licensing**: See the [LICENSE file](LICENSE)
+**Licensing**: See the [LICENSE file](LICENSE.md)
 
 # Features:
 
