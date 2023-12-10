@@ -23,7 +23,7 @@ Minimalistic and secure operating system
 - multiple security layers
 
 3. Small footprint - In oposite to other Linux distributions, except the security software, there won't be neither a GUI, nor other software preinstalled
-4. Full customization - The administrators may freely customize the system (by install the GUI and software at choice) according to the needs
+4. Full customization - The administrators may freely customize the system (by installing the GUI and software at choice) according to the needs
 
 # Requirments:
 
