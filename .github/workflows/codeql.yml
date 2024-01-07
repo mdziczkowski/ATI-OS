@@ -16,15 +16,15 @@ jobs:
     #   - https://gh.io/supported-runners-and-hardware-resources
     #   - https://gh.io/using-larger-runners
     # Consider using larger runners for possible analysis time improvements.
-    runs-on: ${{ (matrix.language == 'swift' && 'macos-latest') || 'ubuntu-latest' }}
-    timeout-minutes: ${{ (matrix.language == 'swift' && 120) || 360 }}
+    runs-on: ${{ (matrix.language || true }}
+    timeout-minutes: ${{ (matrix.language && 120) || 360 }}
     permissions:
       actions: read
       contents: read
       security-events: write
 
     strategy:
-      fail-fast: false
+      fail-fast: true
       matrix:
         language: [ "c-cpp", "python" ]
         # CodeQL supports [ 'c-cpp', 'csharp', 'go', 'java-kotlin', 'javascript-typescript', 'python', 'ruby', 'swift' ]
