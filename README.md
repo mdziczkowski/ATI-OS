@@ -30,46 +30,51 @@ Minimalistic and secure operating system
 ## Scripts:
 
 1. 64-bit Debian based Linux distribution
-2. Pre-Requirments for the build environment - packages and libraries
+
+2. All required packages needed to get, compile and prepare the Linux image file. Bellow, are few of them:
 
 - build-essentials (install's allmost all software required for the compilation process)
+
 - bison++
+
 - python3
+
 - libraries: libssl-dev
+
 - squashfs
+
 - dependencies required by the third-patry software required to compile the sources
 
-## Final product (portable (live) version)
+## Final product - portable (live) system
 
-[!IMPORTANT]
-1. USB stick **need to meet** following criteria:
+# IMPORTANT
+
+1. The USB stick **need to meet** following criteria:
 
 - must be cleaned using the `wipe` command to prevent any potential leftovers from previous data and potential malware
+
 - must have a GPT partition table
-- the partition `need` to be set bootable**
 
-2. The BIOS/UEFI `need` to be set to run from USB before the hard drive
+- the partition `need` to be set bootable
 
-3. Ensure yourself to have an active and stable internet connection
+2. The BIOS/UEFI `need` either to be set to run from USB before the hard drive or be run from a boot menu
 
-4. Ensure yourself that you have fullfilled the requirments of having 
+3. You have propper tools to "burn" the Linux image to the USB stick
 
 # Distribution preparation using included scripts
 
-1. Get the content of the repository:
-  a) using git clone (remember to use the `--recrusive` and `--recrusive-modules` options) OR
-  b) Download (and extract the archive)
+1. Get the content of the repository (one of):
+
+a) using git clone (remember to use the `--recrusive` and `--recrusive-modules` options)
+
+b) Download the archive from the repository and then extract it on your drive
 
 From now, the folder to with the repository got clobed/extracted will be refered as the "*project dir*"
 
 2. In the `project dir` enter the `code` sub-folder
-3. ensure that the scripts are executable
+
+3. ensure that the scripts are executable (command: `chmod -v +x *.sh`)
+
 4. run the `prepare.sh` script
-5. After the script finishes (assuming that it wasn't interrupted due an error), return to the `project dir` and then enter the `dist` sub-folder
-6. copy only the content of the `dist` folder, without copying the folder itself (else the dist won't start)
 
-The distro should be ready to be run.
-
-**IMPORTANT**
-
-The distro has only a console, so you need to be familiar with
+5. After the script finishes (assuming that it wasn't interrupted due an error), return to the `project dir` and then enter the `dist` sub-folder. Inside should be a Linux image that need to become "burned" into a USB stick. It can become also used in Virtual Machines
