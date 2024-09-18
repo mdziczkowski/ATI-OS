@@ -29,21 +29,25 @@ Minimalistic and secure operating system
 
 ## Scripts:
 
-1. 64-bit Debian based Linux distribution
+I. 64-bit Debian based Linux distribution
 
-2. All required packages needed to get, compile and prepare the Linux image file. Bellow, are few of them:
+II. All required packages needed to get, compile and prepare the Linux image file. Bellow, are few of them:
 
+III. Build environment containing among others:
 - build-essentials (install's allmost all software required for the compilation process)
 
 - bison++
-
+- CMake
+- gcc
+- c++
+- libtool
 - python3
+- sqyashfs
+- libssl-dev
+- autotools (autoconf, automake)
+- m4
 
-- libraries: libssl-dev
-
-- squashfs
-
-- dependencies required by the third-patry software required to compile the sources
+IV. dependencies required by the third-patry software required to compile the sources
 
 ## Final product - portable (live) system
 
