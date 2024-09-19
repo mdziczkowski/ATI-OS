@@ -36,7 +36,7 @@ I. 64-bit Debian based Linux distribution
 
 II. All required packages needed to get, compile and prepare the Linux image file. Bellow, are few of them:
 
-III. Build environment containing among others:
+a) Build environment containing among others:
 - build-essentials (install's allmost all software required for the compilation process)
 
 - bison++
@@ -50,7 +50,7 @@ III. Build environment containing among others:
 - autotools (autoconf, automake)
 - m4
 
-IV. dependencies required by the third-patry software required to compile the sources
+b) Dependencies required by the third-patry software required to compile the sources
 
 ## Final product - portable (live) system
 
