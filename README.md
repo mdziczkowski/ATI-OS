@@ -1,5 +1,8 @@
 # ATI-OS
 
+![ATI-OS](ATI-OS_logo.webp)
+
+
 Minimalistic and secure operating system
 
 **Licensing**: See the [LICENSE file](LICENSE.md)
