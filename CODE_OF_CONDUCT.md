@@ -1,71 +1,98 @@
-
 # Contributor Covenant Code of Conduct
 
-## Our Pledge
+### Scope
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+This Code of Conduct applies within all project spaces. It's goal is to define the behaviours with are and aren't accessable, procedures and other related matters.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+### Enforcement
 
-## Our Standards
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the project staff responsible for enforcement or directly the [project owner](mailto:mcgiwer@proton.me).
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+All complaints will be reviewed and investigated promptly and fairly.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+All staff members are obligated to respect the privacy and security of the
+reporter of any incident.
 
-Examples of unacceptable behavior include:
+### Obligations
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+Every member of the project, independant from it's role, is obligated to follow bellow rules:
 
-## Enforcement Responsibilities
+#### Welcomed project related behaviours
 
-Community leaders are responsible for clarifying and enforcing our standards of
+- contribution to the project
+- sharing of knowledge with other members
+
+- supporting of the members whenever they need any help
+
+- keeping the project free of non related topics
+
+- keeping the project community deverse, welcomming and healthy
+
+- empathy and kindness
+- respectfull interactions with other members
+
+- writting and answering only on topic
+- using constructive critic with propper arguments
+
+### Unwelcome behaviours
+
+1. Any form of harrasment, attacks, etc., aspecially those based on (among others):
+
+- sexuality (orientation, expression, gender identification, etc.)
+
+- religion and beliefs
+- age
+- any form of disability
+- body characterics (etnic, race, color, body build, etc.)
+
+- education
+- socio-economic state
+- caste
+- etc.
+
+2. Direspectfull language
+3. Any form of hate speach
+4. Spamming, trolling, threats
+5. Writting and answering off-topic
+6. Using inappropriate or offensive language
+
+7. Attacks "at persona"
+8. Sharing without recieving appriopriate permission sensitive information (including ones with may lead to identification)
+
+9. Talking about, mentioning or referencing to any subject related to:
+
+- geopolitical situation
+- politics
+- religion
+- military
+- ideology
+- sexuality
+- etc.
+
+### Enforcement Responsibilities
+
+Project owner (and apointed staff members) are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Mentioned above have in their discretion the right and responsibility to:
 
-## Scope
+- remove
+- edit
+- reject
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official email address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+any:
 
-## Enforcement
+- comments
+- commits
+- issues
+- code
+- wiki edits, issues
+- other contributions
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[mcgiwer{-at-}proton.me](mailto:mcgiwer@proton.me).
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Enforcement Guidelines
 
@@ -113,22 +140,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
-## Attribution
+##### Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
-[https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
-
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
