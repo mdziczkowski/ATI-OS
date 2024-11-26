@@ -4,7 +4,7 @@
 
 - **script**: code used to: download, build and configure the ***product***
 
-- **used components**: source code, binaries, libraries, etc. with was created by third parties, whith are maintain them.
+- **used components**: source code, binaries, libraries, etc. with was created by third parties and with are maintaied by them.
 
 
 ### Licensing informations
