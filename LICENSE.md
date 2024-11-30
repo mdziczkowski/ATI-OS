@@ -1,10 +1,11 @@
 ### Used definitions
 
-- **product**: Ready to use ATI-OS Linux distribution
+- **product** - *Ready to use ATI-OS Linux distribution*
 
-- **script**: code used to: download, build and configure the ***product***
+- **script** - *Code used to: download, build and configure the __product__*
 
-- **used components**: source code, binaries, libraries, etc. with was created by third parties and with are maintaied by them.
+- **used components**: *Created and managed by third-party:
+  source code, binaries, libraries, snippets, etc.*
 
 
 ### Licensing informations
